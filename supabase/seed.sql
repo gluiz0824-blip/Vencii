@@ -1,0 +1,2 @@
+-- Seeds de desenvolvimento devem ser explícitos e nunca são carregados pela aplicação.
+-- Este módulo não cria usuários ou organizações fictícias automaticamente.
